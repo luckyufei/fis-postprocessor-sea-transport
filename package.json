@@ -1,0 +1,29 @@
+{
+    "name": "fis-postprocessor-sea-transport",
+    "version": "0.0.1",
+    "description": "fis postprocess module for transport sea cmd files",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:googleyufei/fis-postprocessor-sea-transport.git"
+    },
+    "keywords": [
+        "fis",
+        "postprocessor",
+        "seajs",
+        "sea",
+        "transport"
+    ],
+    "author": "googleyufei",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/googleyufei/fis-postprocessor-sea-transport/issues"
+    },
+    "homepage": "https://github.com/googleyufei/fis-postprocessor-sea-transport",
+    "dependencies": {
+        "cmd-util": "^0.3.13"
+    }
+}
